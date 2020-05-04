@@ -17,9 +17,9 @@ Pandas
 This repository contains:
 1. dataset: datasets in csv and xls format
 2. code: Python implementation files for DBNLDA
-2.1 Network_creation.ipynb - Jupyter notebook for creating LMS, DMS and LDA networks
-2.2 DBN_learning.ipynb - Jupyter notebook for DBN based representation of lncRNA, disease pairs
-2.3 NNClassifier-CV.ipynb- Jupyter notebook for running neural network based classification and cross validation
+      1. Network_creation.ipynb - Jupyter notebook for creating LMS, DMS and LDA networks
+      1. DBN_learning.ipynb - Jupyter notebook for DBN based representation of lncRNA, disease pairs
+      1. NNClassifier-CV.ipynb- Jupyter notebook for running neural network based classification and cross validation
 
 The notebook files have to be run in the following sequence:
 1. Network_creation.ipynb
