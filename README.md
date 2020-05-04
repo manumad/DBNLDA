@@ -6,13 +6,13 @@ DBNLDA is a deep belief network based model for predicting potential Long non-co
 Project Home Page: http://bdbl.nitc.ac.in/dbnlda/index.html
 
 ## Packages Required
-Networkx
-Node2Vec
-TensorFlow 1.5 or above
-PyTorch
-Scikit Learn
-Numpy
-Pandas
+* Networkx
+* Node2Vec
+* TensorFlow 1.5 or above
+* PyTorch
+* Scikit Learn
+* Numpy
+* Pandas
 
 This repository contains:
 1. dataset: datasets in csv and xls format
